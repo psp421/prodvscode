@@ -1,0 +1,6 @@
+@EndUserText.label: 'Access Control for ZC_MATERIAL'
+@MappingRole: true
+define role ZC_MATERIAL {
+  grant select on ZC_MATERIAL
+    where inheriting conditions from entity I_Material;
+}
