@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+ <asx:values>
+  <DCLS>
+   <DCLNAME>ZC_MATERIAL</DCLNAME>
+   <DCLANGUAGE>E</DCLANGUAGE>
+   <DCTEXT>Access Control for ZC_MATERIAL</DCTEXT>
+  </DCLS>
+ </asx:values>
+</asx:abap>
